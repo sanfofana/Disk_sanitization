@@ -1,24 +1,20 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Disk Sanitization</h1>
 
 
 <h2>Description</h2>
-This project show a poweshell script that helps a user how to wipe out or zeroing a disk drive connected to a system.
-User will select the target disk and choose the number of passes that are performed. Powershell cript will configure a diskpart script file according to the user selections and luch diskpart to perform the sanitization.
+This project show helps a user how to wipe out or zeroing a disk drive connected to a system, before recycling or just clean the disk.
+The user will execute the Diskpart command.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+## Languages and Utilities Used
+* Windows OS
+* Windows command prompt with admin right
+* Diskpart
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
 Launch the utility: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
