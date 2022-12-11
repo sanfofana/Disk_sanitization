@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project show helps a user how to wipe out or zeroing a disk drive connected to a system, before recycling or just clean the disk.
+This project show helps a user how to wipe out or zeroing a disk drive connected to a system, before recycling or to just clean the disk for security perpuse.
 The user will execute the Diskpart command.
 <br />
 
